@@ -1,0 +1,8 @@
+{
+  "name": "Agenti-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "42a4b2e8"
+}
