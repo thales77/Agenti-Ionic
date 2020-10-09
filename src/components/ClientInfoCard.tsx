@@ -15,8 +15,8 @@ const ClientInfoCard: React.FC = () => {
             </IonItem>
             <IonCardContent>
               <p>Partita Iva: 35655181151</p>
-              <p>Indirizzo: Via sannitica 34/</p>
-              <p>Fatturato €23.000/</p>
+              <p>Indirizzo: Via sannitica 34</p>
+              <p>Fatturato €23.000</p>
             </IonCardContent>
           </IonCard>
   );

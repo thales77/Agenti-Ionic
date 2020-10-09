@@ -1,0 +1,25 @@
+{
+    "clients": [
+        {
+            "id": "007519",
+            "name": "Boemio Giovanni e figli",
+            "iva": "35655181151",
+            "address": "Via sannitica 34",
+            "revenue": "23000"
+        },
+        {
+            "id": "0054554",
+            "name": "Andrea Fer",
+            "iva": "87695959976",
+            "address": "Via Garibaldi 20",
+            "revenue": "45000"
+        },
+        {
+            "id": "475004",
+            "name": "Castaldo Giuseppe",
+            "iva": "353535535",
+            "address": "Corso Europa 35",
+            "revenue": "23000"
+        }
+    ]
+}
